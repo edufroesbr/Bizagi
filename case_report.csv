@@ -1,0 +1,6 @@
+CaseID;Timestamp_Start;Contract_Code;CNPJ;Debt_Amount;Visual_Validation_Status;Doc_Validation_Status;Final_Action;Timestamp_End
+;;CUST-2021-088;14820785000153;R$4.846,53;OK - SUCESSO: Valores conferem! Soma Planilha: 4846.53 | Bizagi: 4846.53 | Diferença: 0.00;OK -  | Protesto_Amount_Check: NOK - Valor R$4.846,53 NÃO encontrado no documento.;Ajustar;2026-01-12 15:33:18
+;;CUST-2021-088;14820785000153;R$4.846,53;OK - SUCESSO: Valores conferem! Soma Planilha: 4846.53 | Bizagi: 4846.53 | Diferença: 0.00;OK -  | Protesto_Amount_Check: NOK - Valor R$4.846,53 NÃO encontrado no documento.;Ajustar;2026-01-12 15:42:56
+14353;;CUST-2021-088;14820785000153;R$4.846,53;OK - SUCESSO: Valores conferem! Soma Planilha: 4846.53 | Bizagi: 4846.53 | Diferença: 0.00;OK -  | Protesto_Amount_Check: NOK - Valor R$4.846,53 NÃO encontrado no documento.;Ajustar;2026-01-12 15:59:48
+14353;;CUST-2021-088;14820785000153;R$4.846,53;OK - SUCESSO: Valores conferem! Soma Planilha: 4846.53 | Bizagi: 4846.53 | Diferença: 0.00;OK -  | Protesto_Amount_Check: NOK - Valor R$4.846,53 não encontrado em Protesto.;Ajustar;2026-01-12 16:59:18
+14353;;CUST-2021-088;14820785000153;R$4.846,53;OK - SUCESSO: Valores conferem! Soma Planilha: 4846.53 | Bizagi: 4846.53 | Diferença: 0.00;OK -  | Protesto_Amount_Check: NOK - Valor R$4.846,53 não encontrado em Protesto.;Ajustar;2026-01-12 17:07:42
